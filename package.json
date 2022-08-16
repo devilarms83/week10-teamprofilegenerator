@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "week 10 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilarms83/week10-teamprofilegenerator.git"
+  },
+  "author": "Albert Bautista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilarms83/week10-teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/devilarms83/week10-teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
