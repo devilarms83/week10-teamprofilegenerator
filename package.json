@@ -4,7 +4,7 @@
   "description": "week 10 homework",
   "main": "index.js",
   "scripts": {
-    "test": "jest -–watchAll"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
