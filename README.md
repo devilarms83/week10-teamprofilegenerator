@@ -56,10 +56,11 @@ THEN I exit the application, and the HTML is generated
   Run the index.js in your terminal of choice to complete the application. Then go to the Tests folder and run the jest tests to make sure they run correctly.
   
   What the terminal should look like:
-  ![Terminal Image](./assets/index html wk10.png)
+  ![Terminal Image](./assets/index_wk10.png)
   
   What the generated html looks like:
-  ![Sample Readme Generated](./assets/terminal wk10.png)
+  
+  ![Sample Readme Generated](./assets/terminal_wk10.png)
   
   Here's a link to a sample [video](https://drive.google.com/file/d/1HaXfg_0NSHkrzUejvV-MEMJxRmXXPkYH/view?usp=sharing).
      
